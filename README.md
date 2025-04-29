@@ -26,10 +26,9 @@ A modern, minimalist shopping experience built with **Vite + React + TypeScript*
 
 ## 🖼️ Screenshots
 
-### 🖥️ Desktop View
 ![Desktop Screenshot](shop1.png)
 
-### 📱 Mobile View
+
 ![Mobile Screenshot](shop2.png)
 
 ---
