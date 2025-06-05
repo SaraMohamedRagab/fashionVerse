@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
 import Navbar from '../components/NavBar';
+import { Link } from 'react-router-dom';
 import Footer from '@/components/Footer';
 import ProductGrid from '@/components/ProductGrid';
 import { getFilteredProducts } from '@/data/products';
